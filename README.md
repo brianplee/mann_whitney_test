@@ -1,7 +1,7 @@
 # mann_whitney_test
 Mann Whitney U-Test 
 
-This method takes in a .CSV file as an argument, and performs the ranking, U-scoring, and test statistic (Z-value) calculations for the Mann Whitney U-test. 
+This method takes in a .CSV or 2 sample sets as an argument, and performs the ranking, U-scoring, and test statistic (Z-value) calculations for the Mann Whitney U-test. 
 
 Mann Whitney test:
   - Create a sorted list with all values from both sample sets, with each value identified by sample set (0 or 1).  
